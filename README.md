@@ -1,2 +1,2 @@
 # ini adalah latihan membuat branch baru
-emang iyaaa ya
+git hub asik lo
